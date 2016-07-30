@@ -34,7 +34,7 @@ static const unsigned int MAX_INV_SZ = 50000;
 static const int64_t MIN_TX_FEE = 1000;
 static const int64_t MIN_RELAY_TX_FEE = MIN_TX_FEE;
 static const int64_t MAX_MONEY = 500000000 * COIN;
-static const int64_t COIN_YEAR_REWARD = 8 * CENT; // 5% BITPOKEMONGO Interest 
+static const int64_t COIN_YEAR_REWARD = 8 * CENT; // 8% BITPOKEMONGO Interest 
 static const int MODIFIER_INTERVAL_SWITCH = 50000;  
 static const int LAST_POW_BLOCK = 345600;
 
