@@ -1,6 +1,7 @@
 BitPokemonGo
 
-
+Twitter:
+https://twitter.com/bitpokemongo
 
 TRIBUTE COIN TO POKEMONGO
 FREE AIRDROP + FREE MINING
@@ -9,7 +10,7 @@ PROMOTING POKEMON WORLD AS FAN AND SUPPORTER
 RPCPORT: 22086
 PORT: 22087
 Maturity: 20 Blocks
-PoS: 5% Yearly @ block 50000
+PoS: 8% Yearly @ block 50000
 Ticker: BPOK
 
 Supply: 33860000 Millions BPOK (40% airdrop approx + 1,4% premine for promotion and bounties)
